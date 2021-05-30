@@ -1,0 +1,9 @@
+{
+  "deepspeech": {
+    "model" :"./dsmodel/deepspeech-0.9.3-models.pbmm",
+    "scorer": "./dsmodel/deepspeech-0.9.3-models.scorer",
+    "audiofiledir": "./audio/",
+    "audiofilelength": "10",
+    "debug": "1"
+  }
+}
