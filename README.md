@@ -3,7 +3,7 @@ DeepSpeech Django STT Server API
 This is an API which is used as a backend of DeepSpeech that allow developers to converting audio data (wav) being transfered through the API and return response and handles the process of the converting audio into text from the model with best accuracy.
 
 ## Installation
-Download or clone this project. This project uses python3. To run this project you need to first install deepspeech's model and scorer. Check out [deepspeech's README.md](https://github.com/mozilla/DeepSpeech/blob/master/README.rst) for details on how to install deepspeech on your machine. Then copy both to dsmodel folder and put path for both file in the correct point in config.json.
+Download or clone this project. This project uses python3. To run this project you need to first install deepspeech's model and scorer. Check out [deepspeech's lastest releases](https://github.com/mozilla/DeepSpeech/releases) for details on how to install deepspeech on your machine. Then copy both to dsmodel folder and put path for both file in the correct point in config.json.
     
 Once deepspeech's materials is installed, run the following commend line to install vitualenv:
 
